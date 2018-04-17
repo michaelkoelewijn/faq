@@ -26,7 +26,7 @@ class Faq {
         switch(this.toggleType) {
             default:
             case 'slide':
-                this.answer.slideToggle();
+                this.answer.stop(true, false).slideToggle();
                 break;
             
             case 'class':
