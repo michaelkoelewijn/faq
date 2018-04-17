@@ -56,6 +56,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
-# Custom files and directories
-dist
