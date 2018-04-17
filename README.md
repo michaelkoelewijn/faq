@@ -7,14 +7,14 @@ Clicking on an FAQ-item will trigger one of the following events:
 
 ## Installing
 ```
-npm install @michaelkoelewijn91/faq
-yarn add @michaelkoelewijn91/faq
+npm install @michaelkoelewijn/faq
+yarn add @michaelkoelewijn/faq
 ```
 * * *
   
 ## Usage
 ```
-var Faq = require('@michaelkoelewijn91/faq');
+var Faq = require('@michaelkoelewijn/faq');
 $(() => {
     Faq.init({
         children: '.js-faq-item',
