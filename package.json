@@ -1,5 +1,5 @@
 {
-  "name": "packagename",
+  "name": "faq",
   "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelkoelewijn/npm.git"
+    "url": "git+https://github.com/michaelkoelewijn/faq.git"
   },
   "author": "Michael Koelewijn <imichael91@live.nl> (https://github.com/michaelkoelewijn)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/michaelkoelewijn/npm/issues"
+    "url": "https://github.com/michaelkoelewijn/faq/issues"
   },
-  "homepage": "https://github.com/michaelkoelewijn/npm#readme",
+  "homepage": "https://github.com/michaelkoelewijn/faq#readme",
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.4",

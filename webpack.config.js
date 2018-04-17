@@ -1,4 +1,4 @@
-const NAME = 'name';
+const NAME = 'package';
 const DEPENDENCIES = ['jquery'];
 
 const config = {
