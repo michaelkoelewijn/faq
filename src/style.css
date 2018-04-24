@@ -1,0 +1,22 @@
+.is-translate.js-faq {
+    transition: 0.8s cubic-bezier(0.9, 0, 0.1, 1);
+}
+
+.is-translate .js-faq-item {
+    transition: transform 0.8s cubic-bezier(0.9, 0, 0.1, 1);
+}
+
+.is-translate .js-faq-item.is-active .js-faq-answer {
+    opacity: 1;
+    visibility: visible;
+}
+
+.is-translate .js-faq-answer {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    transition: all 0.4s ease 0.4s;
+}
